@@ -21,7 +21,21 @@ const authConfig = {
 	 */
 	"roots": [{
 		"id": "",
-		"name": "WarLock Drive Index",
+		"name": "WarLock Drive Index-01",
+		"user": "",
+		"pass": "",
+		"protect_file_link": false
+	},
+	{
+		"id": "",
+	        "name": "WarLock Drive Index-02",
+		"user": "",
+		"pass": "",
+		"protect_file_link": false
+	},
+	{
+		"id": "",
+	        "name": "WarLock Drive Index-03",
 		"user": "",
 		"pass": "",
 		"protect_file_link": false
