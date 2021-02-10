@@ -7,7 +7,7 @@ const clientId = '253010345610-usf06f81rn4rra1lbk5m9npgdlfpnc7i.apps.googleuserc
 const clientSecret = 'IseBOHaFrLjkZoqQSlir4nKd';
 const grantType = 'authorization_code';
 const redirectURI = 'urn:ietf:wg:oauth:2.0:oob';
-const jsURL = 'https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/master/worker/worker-beta.js';
+const jsURL = 'https://raw.githubusercontent.com/warlock-pro/WarLock-Drive-Index/master/worker/worker-beta.js';
 
 async function handleRequest(request) {
     let title = getParameterByName(request.url, 'site_name') || 'WarLock Drive Index';
