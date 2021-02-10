@@ -34,7 +34,7 @@ const authConfig = {
 		"protect_file_link": false
 	},
 	{
-		"id": "0ACDq2JPuyZCjUk9PVA ",
+		"id": "0ACDq2JPuyZCjUk9PVA",
 	        "name": "WarLock Drive Index-03",
 		"user": "",
 		"pass": "",
