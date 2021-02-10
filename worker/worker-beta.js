@@ -20,21 +20,21 @@ const authConfig = {
 	 * [Note] For the disk whose id is set to the subfolder id, the search function will not be supported (it does not affect other disks).
 	 */
 	"roots": [{
-		"id": "",
+		"id": "0AD9mdhGkpoNWUk9PVA",
 		"name": "WarLock Drive Index-01",
 		"user": "",
 		"pass": "",
 		"protect_file_link": false
 	},
 	{
-		"id": "",
+		"id": "0AFOWrcG9TP8NUk9PVA",
 	        "name": "WarLock Drive Index-02",
 		"user": "",
 		"pass": "",
 		"protect_file_link": false
 	},
 	{
-		"id": "",
+		"id": "0ACDq2JPuyZCjUk9PVA ",
 	        "name": "WarLock Drive Index-03",
 		"user": "",
 		"pass": "",
