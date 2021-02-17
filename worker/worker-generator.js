@@ -285,7 +285,7 @@ async function handleRequest(request) {
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 <div class="mdui-container">
     <br><br>
-    <a href="https://github.com/warlock-pro/WarLock-Drive-Index"><img border="0" alt="WarLock Projects" src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="30px"></a><h3>WarLock Drive Index Generator by JAYANTH:VALMIKI</h3>
+    <a href="https://github.com/warlock-pro/WarLock-Drive-Index"><img border="0" alt="WarLock Projects" src="https://telegra.ph/file/b557265ecc028284b4baf.jpg" height="30px"></a><h3>WarLock Drive Index Generator by JAYANTH:VALMIKI</h3>
     <br>
     <div class="mdui-row">
         <div class="mdui-col-sm-2">
